@@ -1,0 +1,32 @@
+
+img{
+    width: 150px;
+    height: 150px;
+    float: center;
+    border-radius: 150px;
+    border:1px solid black;
+    box-shadow: 2px 3px 15px black;
+    margin: 10px;
+   }
+
+    body{
+            width: 800px;
+            height: 1100px;
+            border: 1px solid black;
+            margin: auto;
+            position: relative;
+    }
+
+
+    body {
+        text-align: center;
+        background-color: aliceblue;
+      }
+    
+      body {
+        font-family: 'Times New Roman', Times, serif;
+        color: black;
+      }
+
+    
+
